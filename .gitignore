@@ -1,0 +1,14 @@
+# Binarios
+*.exe
+*.zip
+*.rar
+
+# IDEs
+.idea/
+.vscode/
+
+# Builds
+dist/
+build/
+bin/
+obj/
